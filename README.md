@@ -17,7 +17,7 @@ python -m pip install -r requirements.txt
 
 1. [Sign up for a Crawlbase account](https://crawlbase.com/signup) and log in.
 2. Upon registration, you’ll receive 5,000 free requests to get started.
-3. Navigate to your [Account Docs](https://crawlbase.com/dashboard/account/docs) and copy your Crawling API token (Normal or JavaScript requests).
+3. Navigate to your [Account Docs](https://crawlbase.com/dashboard/account/docs) and copy your Crawling API token (JavaScript requests token).
 
 ## Running the Example Scripts
 
