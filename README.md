@@ -23,10 +23,8 @@ python -m pip install -r requirements.txt
 
 Before running the examples, ensure that you replace all instances of the following placeholders:
 
-1. `<Normal or Javascript requests token>` - Replace this with your [Crawling API requests token](https://crawlbase.com/dashboard/account/docs).
-
-### Example Scripts
-
+1. `<Javascript requests token>` - Replace this with your [Crawling API requests token](https://crawlbase.com/dashboard/account/docs).
+2. `<cookies-goes-here>` - Replace with actual browser cookie
 
 ---
 
