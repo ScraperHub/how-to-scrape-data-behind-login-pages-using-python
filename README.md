@@ -1,6 +1,6 @@
 # How to Scrape Data Behind Login Pages Using Python
 
-We invite you to explore our [blog](https://crawlbase.com/blog/how-to-scrape-data-behind-login-pages-using-python/) for more details.
+We invite you to explore our [blog](https://crawlbase.com/blog/how-to-scrape-data-behind-login-pages-using-python/?utm_source=github&utm_medium=referral&utm_campaign=scraperhub&ref=gh_scraperhub) for more details.
 
 ## Setting Up Your Coding Environment
 
@@ -25,6 +25,9 @@ Before running the examples, ensure that you replace all instances of the follow
 
 1. `<Javascript requests token>` - Replace this with your [Crawling API requests token](https://crawlbase.com/dashboard/account/docs).
 2. `<cookies-goes-here>` - Replace with actual browser cookie
+
+🛡 Disclaimer
+This repository is for educational purposes only. Please make sure you comply with the Terms of Service of any website you scrape. Use this responsibly and only where permitted.
 
 ---
 
